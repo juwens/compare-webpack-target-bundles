@@ -4,14 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "rimraf dist/ && webpack --colors"
+    "start": "rimraf dist/ && webpack --color"
   },
   "author": "Sean Larkin",
   "license": "MIT",
   "devDependencies": {
     "rimraf": "^2.5.4",
-    "webpack": "^2.2.0",
-    "webpack-merge": "^0.14.1"
+    "webpack": "^4.44.2",
+    "webpack-cli": "^4.0.0",
+    "webpack-merge": "^5.2.0"
   },
   "dependencies": {
     "react": "^15.3.1",
