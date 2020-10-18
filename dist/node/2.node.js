@@ -1,1 +1,0 @@
-exports.ids=[2],exports.modules={171:function(o,t,n){"use strict";function e(){console.log("DEFAULT EXPORT HELLOOOOO")}n.r(t),n.d(t,"default",(function(){return e}))}};
